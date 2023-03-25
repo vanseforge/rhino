@@ -1,6 +1,6 @@
-# **RH**ASSPY **IN**TENT HA**N**DLER FOR **O**PENHAB (RHINO)
+# **RH**ASSPY **I**NTENT HA**N**DLER FOR **O**PENHAB (RHINO)
 ## Introduction
-RHINO (**RH**ASSPY **IN**TENT HA**N**DLER FOR **O**PENHAB) is a simple intent handler for rhasspy with a connection to openHAB.
+RHINO (**RH**ASSPY **I**NTENT HA**N**DLER FOR **O**PENHAB) is a simple intent handler for rhasspy with a connection to openHAB.
 Some skills are built-in and is also possible to write own skills (folder "ext_modules").
 Available skills:
 * Switch on/off lights
