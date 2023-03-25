@@ -1,0 +1,14 @@
+general:
+  timezone: 'Europe/Berlin'
+  locale: 'de_DE.UTF-8'
+  language: 'de'
+  alarm_sound: 'alarm.wav'
+openHAB:
+  http_url: 'http://10.0.0.3:8080'
+  items:
+    outside_temperature: 'HeatPump_Temperature_1'
+    weather_condition: 'Weather_OWM_Condition'
+    gaming: 'Gaming'
+rhasspy:
+  http_url: 'http://10.0.0.2:12101'
+  websocket_url: 'ws://10.0.0.2:12101'

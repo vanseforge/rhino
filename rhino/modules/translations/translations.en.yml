@@ -1,0 +1,26 @@
+en:
+  errors:
+    no_skill: 'Sorry, I can''t do that yet'
+    playnews: 'The news could not be loaded'
+    no_connection_openhab: 'No connection to OpenHAB'
+  change_light_state:
+    light_on: 'Light %{light_name} switched on'
+    light_off: 'Light %{light_name} switched off'
+    light_analog: 'Light %{light_name} set to %{light_value} Percent set'
+  gamingmode:
+    feedback: 'gaming mode activated'
+  get_temperature:
+    feedback: 'It''s %{temperature} degrees Celsius'
+  get_weather:
+    feedback: 'It is %{condition} and %{temperature} degrees Celsius'
+  get_time:
+    feedback: '%{hour} clock %{minute}'
+  timer:
+    started:
+      hours_minutes_seconds: 'timer set to %{hours} hours, %{minutes} minutes and %{seconds} seconds'
+      minutes_seconds: 'Timer set to %{minutes} minutes and %{seconds} seconds'
+      seconds: 'Timer set to %{seconds} seconds'
+    remaining:
+      hours_minutes_seconds: 'Remaining time %{hours} hours, %{minutes} minutes and %{seconds} seconds'
+      minutes_seconds: 'Remaining time %{minutes} minutes and %{seconds} seconds'
+      seconds: 'Remaining time %{seconds} seconds'
