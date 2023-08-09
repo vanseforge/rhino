@@ -19,7 +19,7 @@ Available skills:
 ### Installation
 Clone this reporsitory:
 ```
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone https://github.com/vanseforge/rhino
 ```
 Navigate to the cloned reporsitory where the dockerfile is.
 
